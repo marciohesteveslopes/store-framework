@@ -8,6 +8,7 @@
       "product-images",
       "product-price",
       "product-name",
+      "product-identifier.product",
       "buy-button"
     ]
   },
@@ -79,5 +80,13 @@
     "props": {
 
     }
+  },
+
+  "shipping-simulator": {
+    "props": {
+
+    }
   }
+
+
 }
