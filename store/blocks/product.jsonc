@@ -3,13 +3,6 @@
     "children": [
       "breadcrumb",
       "flex-layout.row#main"
-    ],
-    "blocks": [
-      "product-images",
-      "product-price",
-      "product-name",
-      "product-identifier.product",
-      "buy-button"
     ]
   },
 
@@ -55,36 +48,6 @@
     "props": {
       "showSavings": true,
       "showListPrice": true
-    }
-  },
-
-  "product-images": {
-    "props":{
-
-    }
-  },
-
-  "product-name": {
-    "props": {
-
-    }
-  },
-
-  "buy-button": {
-    "props":{
-
-    }
-  },
-
-  "product-identifier.product": {
-    "props": {
-
-    }
-  },
-
-  "shipping-simulator": {
-    "props": {
-
     }
   }
 
